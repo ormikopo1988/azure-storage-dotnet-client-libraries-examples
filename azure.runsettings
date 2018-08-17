@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Parameters used by tests at runtime -->  
+  <TestRunParameters>  
+    <Parameter name="AzureStorageName" value="your-azure-general-storage-name" />  
+    <Parameter name="AzureStorageKey" value="your-azure-general-storage-key" />
+    <Parameter name="AzureOnlyBlobStorageName" value="your-azure-blob-only-storage-name" />
+    <Parameter name="AzureOnlyBlobStorageKey" value="your-azure-blob-only-storage-key" />
+  </TestRunParameters> 
+</RunSettings>
